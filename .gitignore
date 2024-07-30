@@ -3,6 +3,9 @@ env/
 my_pytorch_env/
 venv/
 
+#data dowloaded by program
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
